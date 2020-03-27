@@ -1,0 +1,1 @@
+Can be used to create templates , home page , contact us , etc
